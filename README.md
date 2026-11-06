@@ -11,7 +11,8 @@ e o javaScript pela interatividade da pagina.
 Agora transformei o projeto utilizando React e Tailwind CSS, isso possibilitou estilizar a página diretamente no código, tornando o desenvolvimento mais rápido e responsivo.
 Também utilizei o Vite, uma ferramenta que facilita a excução do projeto e permite visualizar as alterações em tempo real.
 
-<img width="1033" height="580" alt="Captura de tela 2026-11-02 212141" src="https://github.com/user-attachments/assets/a5e4044e-eade-45fa-8a6e-0f1fb7586646" />
+<img width="1138" height="620" alt="image" src="https://github.com/user-attachments/assets/47dc7f64-cb3c-4dbd-8c8c-e3a752806ccf" />
+
 
 
 
